@@ -41,5 +41,13 @@ Where:
    $$\sum_{w \in W} x_{w,s,i} \le 1.10 \cdot \hat{d}_{s,i} \quad \forall s \in S, \; \forall i \in I$$
 
 ---
+## 4. Repository Structure
+
+```text
+├── train.csv
+├── test.csv
+├── Demand_Forecasting_and_MILP_Allocation.ipynb
+└── README.md
+```
 
 ## 4. Repository Structure
