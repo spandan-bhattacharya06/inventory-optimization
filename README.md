@@ -44,7 +44,9 @@ Where:
 ## 4. Repository Structure
 
 ```text
-├── train.csv
-├── test.csv
+├── .gitignore
 ├── Demand_Forecasting_and_MILP_Allocation.ipynb
-└── README.md
+├── README.md
+├── requirements.txt
+├── test.csv
+└── train.csv
