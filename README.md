@@ -48,6 +48,3 @@ Where:
 ├── test.csv
 ├── Demand_Forecasting_and_MILP_Allocation.ipynb
 └── README.md
-```
-
-## 4. Repository Structure
